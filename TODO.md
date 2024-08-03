@@ -1,6 +1,5 @@
 # TODO list
 
-- Check if no CLI flags were given
 - Word count in search.sh
 - CLI flags for actual program
 - Makefile
