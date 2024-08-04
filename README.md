@@ -10,7 +10,7 @@ I made this cuz im bored and i love wasting time generating random gibberish and
 3. Run outputted file `./output`
 
 ## Search.sh
-- This is basically script with one command which searches file for specific word and outputs it and line number
+This is basically script which searches file for specific word and outputs it and line number
 
 Flags:
 - -s string - search for specific string
