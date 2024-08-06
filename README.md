@@ -6,7 +6,7 @@ I made this cuz im bored and I love wasting time generating random gibberish and
 
 ## Compiling and running:
 1. Clone this repo
-2. Give yourself permissions to run `compile.sh` (`chmod +x compile.sh`)
+2. Add execute permission `compile.sh` (`chmod +x compile.sh`)
 3. Run outputted file `./output`
 
 ## Search.sh
