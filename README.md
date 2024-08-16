@@ -2,7 +2,7 @@
 #### Something random
 - By Mikicrep
 
-I made this cuz im bored and I love wasting time generating random gibberish and seeing if I can find actual word or good string inside of it
+I made this cuz im bored and I love wasting time generating random gibberish and seeing if I can find actual word inside of it
 
 ## Compiling and running:
 1. Clone this repo
